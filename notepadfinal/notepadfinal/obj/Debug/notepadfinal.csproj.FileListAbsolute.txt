@@ -1,0 +1,9 @@
+c:\users\info\documents\visual studio 2013\Projects\notepadfinal\notepadfinal\bin\Debug\notepadfinal.exe.config
+c:\users\info\documents\visual studio 2013\Projects\notepadfinal\notepadfinal\bin\Debug\notepadfinal.exe
+c:\users\info\documents\visual studio 2013\Projects\notepadfinal\notepadfinal\bin\Debug\notepadfinal.pdb
+c:\users\info\documents\visual studio 2013\Projects\notepadfinal\notepadfinal\obj\Debug\notepadfinal.csprojResolveAssemblyReference.cache
+c:\users\info\documents\visual studio 2013\Projects\notepadfinal\notepadfinal\obj\Debug\notepadfinal.Form1.resources
+c:\users\info\documents\visual studio 2013\Projects\notepadfinal\notepadfinal\obj\Debug\notepadfinal.Properties.Resources.resources
+c:\users\info\documents\visual studio 2013\Projects\notepadfinal\notepadfinal\obj\Debug\notepadfinal.csproj.GenerateResource.Cache
+c:\users\info\documents\visual studio 2013\Projects\notepadfinal\notepadfinal\obj\Debug\notepadfinal.exe
+c:\users\info\documents\visual studio 2013\Projects\notepadfinal\notepadfinal\obj\Debug\notepadfinal.pdb
